@@ -697,3 +697,26 @@ footer a:hover { color: var(--white); }
 /* EN tone unification helpers */
 .lead{max-width: 70ch; font-size: 1.05rem; line-height: 1.6; opacity: 0.95;}
 .about{max-width: 75ch;}
+
+.research-body {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+}
+
+.research-body > div:first-child {
+  flex: 1.2;   /* テキスト幅 */
+}
+
+.research-img {
+  flex: 1;     /* 画像幅を広げる */
+}
+
+.research-img img {
+  width: 100%;
+  max-width: 800px;  /* ← ここが重要 */
+  height: auto;
+  display: block;
+}
+
+

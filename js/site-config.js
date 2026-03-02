@@ -35,7 +35,7 @@ window.SS_SITE_CONFIG = {
   },
 
   heroBand: {
-    leftJa:  "豊橋技術科学大学<br>電気・電気情報工学系",
+    leftJa:  "豊橋技術科学大学<br>電気・電子情報工学系",
     leftEn:  "Department of Electrical and Electronic Information Engineering<br>Toyohashi University of Technology",
     rightJa: "スマートシステム研究室",
     rightEn: "Smart Systems Laboratory",
@@ -50,7 +50,7 @@ window.SS_SITE_CONFIG = {
 
   footer: {
     ja: [
-      "豊橋技術科学大学 電気・電気情報工学系 情報通信システムコース",
+      "豊橋技術科学大学 電気・電子情報工学系 情報通信システムコース",
       "スマートシステム研究室 〒441-8580 愛知県豊橋市天伯町雲雀ヶ丘1-1 C-410",
       "Copyright © Smart Systems Laboratory",
     ],
